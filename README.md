@@ -39,8 +39,8 @@ Une fois tous les bateaux placés, le jeu entre en phase 2.
 C'est la phase la plus importante. Vous allez entrer une case, qui spécifie que vous attaquer cette case là dans le **plan de chasse**. Si vous touchez un bateau, vous verrez un 'T' rouge à l'emplacement indiqué. Sinon, vous verrez une croix blanche. Par la suite, l'IA attaquera à son tour, et la case qu'il attaquera sera visible dans le **plan de jeu**. Vous pouvez également voir les bateaux qu'il reste à chacun à côtés des grilles. Une fois qu'un bateau est coulé, son nom disparait à côté de la grille. Si vous arrivez à couler tous les bateaux adverses en premier, vous gagnez la partie. En revanche, si l'IA coule tous vos bateaux, vous perdez.
 
 ## Fabriqué avec
-Free Pascal - Langage
-Lazarus - EDI multiplateforme
+- Free Pascal - Langage
+- Lazarus - EDI multiplateforme
 
 ## Auteurs
 - Matthieu Chartrain
